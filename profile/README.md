@@ -1,4 +1,4 @@
-## Hi there 👋 this is Teampple team~!
+## Hi there 👋 this is Teampple team
 
 <!--
 
